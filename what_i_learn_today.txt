@@ -1,0 +1,12 @@
+step1: creating the account of github
+step2: creating the new repository ex....todays_news
+step3: to pull the request: git clone 
+ex..https://github.com/prathamesh-jadhav-22/hc_31stmay2021.git
+step4: we need to add our files into the newly created repository...
+step5: to add all files: git add.
+step6: to deploy. you are keeping ready: git commit -m "init app"
+step7: every rep.. will be having the branch (master/main)
+step8: we need to connect to our rep..In remote.. and then we need to deploy..
+git remote add origin https://github.com<username>/<repname>
+step9: finally we are deploying the things...
+git push -u origin master
